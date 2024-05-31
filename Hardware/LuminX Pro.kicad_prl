@@ -67,8 +67,14 @@
     "visible_layers": "ffdffff_fffffffd",
     "zone_display_mode": 1
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
-    "filename": "LuminX WLED.kicad_prl",
+    "filename": "LuminX Pro.kicad_prl",
     "version": 3
   },
   "project": {
